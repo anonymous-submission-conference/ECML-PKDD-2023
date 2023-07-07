@@ -3,11 +3,9 @@ This is the official code accompanied with the paper 'Improving embeddings for h
 
 <p align="center">
   <img src="fine_tuning.jpg" alt="Alt text" title="Optional title" width="50%" height="50%">
+  Fig. 1: Fine-tuning architecture of bi-encoder for the address matching task model when using multiple negative ranking loss
 </p>
 
 
 
-
-
-Fig. 1: Fine-tuning architecture of bi-encoder for the address matching task model when using multiple negative ranking loss
 
